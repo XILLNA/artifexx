@@ -36,6 +36,7 @@ campaign-optimizer/
 ### Ágens környezetben
 Másold a mappát a projekt `.agent/skills/` könyvtárába, majd hívd meg az ágensben:
 > *Meglévő adatbázis esetében: „Futtasd a campaign-optimizer skillt Magyar Péter Facebook posztjaira 2026.02.21 és 2026.04.11 között.”*
+> 
 > *Meglévő adatbázis hiányában: „Futtasd a campaign-optimizer skillt Magyar Péter Facebook posztjaira 2026.02.21 és 2026.04.11 között. Használd az API tokent az adatok elérése érdekében; <api tokened helye>”*
 
 ### Parancssorból
